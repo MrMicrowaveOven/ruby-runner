@@ -145,6 +145,7 @@ class GozintaSolver
             end
             two_exponent += 1
         end
+        puts("IT IS FINISHED")
     end
 
     def factorize(num)
