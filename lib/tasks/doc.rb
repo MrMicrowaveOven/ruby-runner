@@ -185,7 +185,7 @@ class GozintaSolver
 
 end
 
-solver = GozintaSolver.new(12)
+solver = GozintaSolver.new(16)
 solver.solve3
 # factors = solver.factorize(29808)
 # factors.each do |factor|
